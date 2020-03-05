@@ -1,0 +1,12 @@
+{
+    "name": "aeonfr/composer-test",
+    "description": "Create first package to learn",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Francisco Cano Brusa",
+            "email": "francisco@filmin.es"
+        }
+    ],
+    "require": {}
+}
